@@ -1,0 +1,1 @@
+A content based movie recommendation system which takes the input from the user retrieves the most similar movies based on feature similarity. Recommended movies are ranked based on their similarity scores, ensuring relevant and personalized suggestions.
